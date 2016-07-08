@@ -19,7 +19,8 @@
         "flowpack/neos-frontendlogin": "~2.0",
         "neos/redirecthandler-neosadapter": "~1.0",
         "neos/redirecthandler-databasestorage": "~1.0",
-        
+
+        "obisconcept/neos-bootstrap": "dev-master",
         "obisconcept/neos-demo": "dev-master"
     },
     "require-dev": {
