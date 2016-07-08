@@ -21,6 +21,7 @@
         "neos/redirecthandler-databasestorage": "~1.0",
 
         "obisconcept/neos-bootstrap": "dev-master",
+        "obisconcept/neos-bootstrap-form": "dev-master",
         "obisconcept/neos-demo": "dev-master"
     },
     "require-dev": {
