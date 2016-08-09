@@ -22,6 +22,7 @@
 
         "obisconcept/neos-bootstrap": "dev-master",
         "obisconcept/neos-bootstrap-form": "dev-master",
+        "obisconcept/neos-ajax-form": "dev-master",
         "obisconcept/neos-swiper": "dev-master",
         "obisconcept/neos-gmaps": "dev-master",
         "obisconcept/neos-demo": "dev-master"
