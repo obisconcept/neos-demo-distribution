@@ -29,6 +29,7 @@
         "obisconcept/neos-gallery": "dev-master",
         "obisconcept/neos-php": "dev-master",
         "obisconcept/neos-blog": "dev-master",
+        "obisconcept/neos-search": "dev-master",
         "obisconcept/neos-demo": "dev-master"
     },
     "require-dev": {
