@@ -20,6 +20,7 @@
         "neos/redirecthandler-neosadapter": "~1.0",
         "neos/redirecthandler-databasestorage": "~1.0",
 
+        "obisconcept/neos-jquery": "dev-master",
         "obisconcept/neos-bootstrap": "dev-master",
         "obisconcept/neos-bootstrap-form": "dev-master",
         "obisconcept/neos-ajax-form": "dev-master",
