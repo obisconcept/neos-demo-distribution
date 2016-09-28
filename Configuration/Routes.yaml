@@ -8,6 +8,20 @@
 #                                                                        #
 
 -
+  name: 'ObisConceptNeosBlog'
+  uriPattern: '<ObisConceptNeosBlogSubroutes>'
+  subRoutes:
+    ObisConceptNeosBlogSubroutes:
+      package: ObisConcept.NeosBlog
+
+-
+  name: 'AjaxForm'
+  uriPattern: '<AjaxFormSubroutes>'
+  subRoutes:
+    'AjaxFormSubroutes':
+      package: 'ObisConcept.NeosAjaxForm'
+
+-
   name: 'ObisConcept.NeosSearch.SubRoutes'
   uriPattern: '<ObisConceptNeosSearchSubRoutes>'
   subRoutes:
