@@ -19,6 +19,7 @@
         "flowpack/neos-frontendlogin": "~2.1",
         "neos/redirecthandler-neosadapter": "~1.0",
         "neos/redirecthandler-databasestorage": "~1.0",
+        "typo3/neos-googleanalytics": "~1.0.0",
 
         "obisconcept/neos-jquery": "dev-master",
         "obisconcept/neos-bootstrap": "dev-master",
