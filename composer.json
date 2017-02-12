@@ -22,7 +22,7 @@
       "obisconcept/neos-bootstrap-form": "dev-master",
       "obisconcept/neos-ajax-form": "dev-master",
       "obisconcept/neos-swiper": "dev-master",
-      "obisconcept/neos-gmaps": "dev-master",
+      "obisconcept/neos-gmaps": "~2.0",
       "obisconcept/neos-gallery": "dev-master",
       "obisconcept/neos-php": "dev-master",
       "obisconcept/neos-blog": "dev-master",
@@ -43,9 +43,9 @@
       "ext-pdo_sqlite": "For running functional tests out-of-the-box this is required"
     },
     "scripts": {
-      "post-update-cmd": "TYPO3\\Flow\\Composer\\InstallerScripts::postUpdateAndInstall",
-      "post-install-cmd": "TYPO3\\Flow\\Composer\\InstallerScripts::postUpdateAndInstall",
-      "post-package-update": "TYPO3\\Flow\\Composer\\InstallerScripts::postPackageUpdateAndInstall",
-      "post-package-install": "TYPO3\\Flow\\Composer\\InstallerScripts::postPackageUpdateAndInstall"
+      "post-update-cmd": "Neos\\Flow\\Composer\\InstallerScripts::postUpdateAndInstall",
+      "post-install-cmd": "Neos\\Flow\\Composer\\InstallerScripts::postUpdateAndInstall",
+      "post-package-update": "Neos\\Flow\\Composer\\InstallerScripts::postPackageUpdateAndInstall",
+      "post-package-install": "Neos\\Flow\\Composer\\InstallerScripts::postPackageUpdateAndInstall"
     }
 }
